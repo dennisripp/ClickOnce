@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\denni\Desktop\ClickonceTest\|C:\Users\student\Desktop\WebSite\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\localhost\Users\denni\Desktop\ClickonceTest\|\\localhost\Users\denni\Desktop\WebSiteTest\|\\localhost\Users\denni\Desktop\websitetest\|\\localhost\Users\denni\DesktopwebSiteTest\|\\localhost\Users\denni\Desktopwe\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\localhost\Users\denni\Desktop\ClickonceTest\|http://localhost/WpfApp1/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>de-DE</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater stable\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater2\Windows\Accept\;C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater stable\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater2\Windows\Download\;C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater stable\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater2\Windows\Info\;C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater stable\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater2\Windows\</ReferencePath>
+  </PropertyGroup>
+</Project>

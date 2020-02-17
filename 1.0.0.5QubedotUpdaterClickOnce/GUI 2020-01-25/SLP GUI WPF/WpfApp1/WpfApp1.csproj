@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73B9844D-5714-47D0-85B8-91415027205E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WpfApp1</RootNamespace>
+    <AssemblyName>MicroControlLED</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\denni\Desktop\ClickonceTest\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>\\localhost\Users\denni\Desktop\ClickonceTest\</InstallUrl>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>47</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6E8A24F02E2DC308A823BD23995BF6A2206224D1</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WpfApp1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DirectShowLib, Version=2.1.0.1599, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DirectShowLib.1.0.0\lib\DirectShowLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=3.4.3.3016, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EMGU.CV.3.4.3.3016\lib\net35\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World, Version=3.4.3.3016, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EMGU.CV.3.4.3.3016\lib\net35\Emgu.CV.World.dll</HintPath>
+    </Reference>
+    <Reference Include="Magick.NET-Q16-AnyCPU, Version=7.14.3.0, Culture=neutral, PublicKeyToken=2004825badfa91ec, processorArchitecture=MSIL">
+      <HintPath>..\packages\Magick.NET-Q16-AnyCPU.7.14.3\lib\net40\Magick.NET-Q16-AnyCPU.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.Debugger.Interop.15.0, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsInput, Version=1.0.4.0, Culture=neutral, PublicKeyToken=9b287f7dc5073cad, processorArchitecture=MSIL">
+      <HintPath>..\packages\InputSimulator.1.0.4.0\lib\net20\WindowsInput.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Windows\About\AboutWindow.xaml.cs">
+      <DependentUpon>AboutWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Animation.cs" />
+    <Compile Include="Animation\LoadAnimation.cs" />
+    <Compile Include="Animation\StreamAnimation.cs" />
+    <Compile Include="BMP and GIF\AnimationToGIF.cs" />
+    <Compile Include="BMP and GIF\GifToAnimation.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI Cam\CamControl.cs" />
+    <Compile Include="UI Cam\UICam.cs" />
+    <Compile Include="UI Control\Measure\UIControl_MeasureEventActions.cs" />
+    <Compile Include="UI Control\Measure\UIControl_MeasureField.cs" />
+    <Compile Include="UI Control\Measure\UIControl_Measure.cs" />
+    <Compile Include="UI Control\GIF BMP Animation\UIControl_BMP.cs" />
+    <Compile Include="UI Control\GIF BMP Animation\UIControl_GIF.cs" />
+    <Compile Include="UI Control\UIControl_KeyActions.cs" />
+    <Compile Include="UI Control\Draw\UIControl_PrintDrawOutput.cs" />
+    <Compile Include="UI Control\GIF BMP Animation\UIControl_CreateAnimation.cs" />
+    <Compile Include="Ulbricht\Ulbricht.cs" />
+    <Compile Include="UI Draw\Action\Figure.cs" />
+    <Compile Include="UI Draw\Action\Select.cs" />
+    <Compile Include="UI Draw\Action\SubFigure.cs" />
+    <Compile Include="UI Draw\Tools\ActionTool.cs" />
+    <Compile Include="UI Draw\ToolBox\Print Toolbox\DrawBar.cs" />
+    <Compile Include="UI Draw\ToolBox\Print Toolbox\DrawToolbox.cs" />
+    <Compile Include="UI Draw\ToolBox\Print Toolbox\SelectionBar.cs" />
+    <Compile Include="UI Draw\Tools\Tool.cs" />
+    <Compile Include="UI PixelArray\Frame.cs" />
+    <Compile Include="UI PixelArray\FrameStorage.cs" />
+    <Compile Include="USB Communication\USBDecoder16x16.cs" />
+    <Compile Include="USB Communication\USBDecoder8x8.cs" />
+    <Compile Include="USB Communication\USBDriver.cs" />
+    <Compile Include="Windows\Connect USB\ConnectDevice.xaml.cs">
+      <DependentUpon>ConnectDevice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="USB Communication\ControlUSBConnection.cs" />
+    <Compile Include="UI Draw\Action\DrawAction.cs" />
+    <Compile Include="UI Draw\Tools\DrawTool.cs" />
+    <Compile Include="UI Draw\ToolBox\Toolbox.cs" />
+    <Compile Include="General\Modes.cs" />
+    <Compile Include="UI Draw\Action\Output.cs" />
+    <Compile Include="UI Draw\Tools\PrintTool.cs" />
+    <Compile Include="Windows\Warnings\SetVoltageWindowWarning.xaml.cs">
+      <DependentUpon>SetVoltageWindowWarning.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\SetValues\SetCurrentWindow.xaml.cs">
+      <DependentUpon>SetCurrentWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\SetValues\SetVoltageWindow.xaml.cs">
+      <DependentUpon>SetVoltageWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\CreateAnimation\CreateAnimationWindow.xaml.cs">
+      <DependentUpon>CreateAnimationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI Control\UIControl_Init.cs" />
+    <Compile Include="UI Control\UIControl_Basics.cs" />
+    <Compile Include="UI Control\Draw\UIControl_MouseDrawAction.cs" />
+    <Compile Include="UI Control\Draw\UIControl_MouseDrawTools.cs" />
+    <Compile Include="UI Control\UIControl_PeripheralCommunicationInterface.cs" />
+    <Compile Include="UI Control\UIControl_PixelArrayGrid.cs" />
+    <Compile Include="UI PixelArray\UIPixel.cs" />
+    <Compile Include="UI PixelArray\UIPixelArrayGrid.cs" />
+    <Compile Include="USB Communication\USBDecoder.cs" />
+    <Compile Include="USB Communication\USBInterface.cs" />
+    <Compile Include="UI Control\UIControl_UIPixelChanges.cs" />
+    <Compile Include="Windows\SetValues\SetSaveModus.xaml.cs">
+      <DependentUpon>SetSaveModus.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Windows\About\AboutWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\measurefield.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Windows\Connect USB\ConnectDevice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BMP and GIF\FrameToBMP.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Windows\Warnings\SetVoltageWindowWarning.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\CreateAnimation\CreateAnimationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\SetValues\SetCurrentWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\SetValues\SetVoltageWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\SetValues\SetSaveModus.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="WpfApp1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 und x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.bmp" />
+    <None Include="Resources\square.bmp" />
+    <None Include="Resources\set.bmp" />
+    <None Include="Resources\select.bmp" />
+    <None Include="Resources\reundooff.bmp" />
+    <None Include="Resources\reundo.bmp" />
+    <None Include="Resources\normal.bmp" />
+    <None Include="Resources\line3.bmp" />
+    <None Include="Resources\line.bmp" />
+    <None Include="Resources\lin2e.bmp" />
+    <None Include="Resources\inv.bmp" />
+    <None Include="Resources\draw.bmp" />
+    <None Include="Resources\del.bmp" />
+    <None Include="Resources\circle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="update.gif" />
+    <Resource Include="Updater\project.xml" />
+    <None Include="Images\Miv.bmp" />
+    <None Include="Images\Miw.bmp" />
+    <None Include="Images\Mih.bmp" />
+    <None Include="Images\tilt.bmp" />
+    <None Include="Resources\groß.bmp" />
+    <None Include="Resources\tilt.bmp" />
+    <Resource Include="Resources\Bitmap1.bmp" />
+    <Resource Include="License-LGPL.txt" />
+    <Resource Include="icon.ico" />
+    <Resource Include="Rastergrafik.ico" />
+    <Resource Include="Images\circle.bmp" />
+    <Resource Include="Images\del.bmp" />
+    <Resource Include="Images\draw.bmp" />
+    <Resource Include="icon2.ico" />
+    <None Include="Images\Bitmap1.bmp" />
+    <Content Include="Images\Inkscapefiles\circle.svg" />
+    <Content Include="Images\Inkscapefiles\del.svg" />
+    <Content Include="Images\Inkscapefiles\inv.svg" />
+    <Resource Include="Images\Inkscapefiles\line.png" />
+    <Content Include="Images\Inkscapefiles\line.svg" />
+    <Content Include="Images\Inkscapefiles\normal.svg" />
+    <Content Include="Images\Inkscapefiles\select.svg" />
+    <Content Include="Images\Inkscapefiles\set.svg" />
+    <Content Include="Images\Inkscapefiles\square.svg" />
+    <Content Include="Images\Inkscapefiles\undo.svg" />
+    <Resource Include="Images\inv.bmp" />
+    <Resource Include="Images\line.bmp" />
+    <Resource Include="Images\normal.bmp" />
+    <Resource Include="Images\reundo.bmp" />
+    <Resource Include="Images\reundooff.bmp" />
+    <Resource Include="Images\select.bmp" />
+    <Resource Include="Images\set.bmp" />
+    <Resource Include="Images\square.bmp" />
+    <Resource Include="Images\undo.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\EMGU.CV.3.4.3.3016\build\EMGU.CV.targets" Condition="Exists('..\packages\EMGU.CV.3.4.3.3016\build\EMGU.CV.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Dieses Projekt verweist auf mindestens ein NuGet-Paket, das auf diesem Computer fehlt. Verwenden Sie die Wiederherstellung von NuGet-Paketen, um die fehlenden Dateien herunterzuladen. Weitere Informationen finden Sie unter "http://go.microsoft.com/fwlink/?LinkID=322105". Die fehlende Datei ist "{0}".</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EMGU.CV.3.4.3.3016\build\EMGU.CV.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EMGU.CV.3.4.3.3016\build\EMGU.CV.targets'))" />
+  </Target>
+</Project>

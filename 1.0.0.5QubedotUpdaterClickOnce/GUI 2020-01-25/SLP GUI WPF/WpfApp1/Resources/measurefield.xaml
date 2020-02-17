@@ -1,0 +1,62 @@
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="1065.818" Height="400" Canvas.Left="525" Canvas.Top="50" Background="White">
+    <Image x:Name="plotImg" Width="164" Height="120" Canvas.Left="0" Canvas.Top="-2"/>
+    <Rectangle x:Name="plot1" Width="164" Height="25" Canvas.Left="0" Canvas.Top="163" />
+    <TextBlock x:Name="grayvaluetext" Width="114" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="0" Canvas.Top="163" />
+    <Rectangle x:Name="plot2" Width="164" Height="24" Canvas.Left="0" Canvas.Top="138" />
+    <TextBlock Text="Video source" Width="161" Height="25" Canvas.Left="204" Canvas.Top="-2" />
+    <ComboBox x:Name="comboBoxVideoSource" Width="161" Height="25" Canvas.Left="204" Canvas.Top="16"/>
+    <TextBlock Text="Resolution" Width="161" Height="25" Canvas.Left="204" Canvas.Top="46" />
+    <ComboBox x:Name="comboBoxResolution" Width="161" Height="25" Canvas.Left="204" Canvas.Top="62" />
+    <Slider x:Name ="SliderExposure" TickFrequency="1" Minimum="3" Maximum="12" Value="8" Width="161" Height="25" Canvas.Left="204" Canvas.Top="108" />
+    <TextBlock x:Name="Sliderexposuretext" Text="Exposure value: 8" Width="161" Height="25" Canvas.Left="204" Canvas.Top="90" />
+    <Button x:Name="selectcamButton" Width="161" Height="25" Canvas.Left="204" Canvas.Top="136" Content="Select camera"/>
+    <CheckBox x:Name="autoBrightnessSubtraction" IsChecked="False" IsEnabled="False" Canvas.Left="0" Canvas.Top="232" Width="51" Content="Auto"/>
+    <RadioButton x:Name="grayBrightnessSubtraction" IsChecked="True" Canvas.Left="63" Canvas.Top="232" Width="51" Content="Gray"/>
+    <RadioButton x:Name="rgbBrightnessSubtraction" IsChecked="False" Canvas.Left="119" Canvas.Top="232" Width="50" Content="RGB"/>
+    <CheckBox x:Name ="mirrorH" IsEnabled="False" Canvas.Top="118" Content="Mirror H"/>
+    <CheckBox x:Name ="mirrorV" IsChecked="False" IsEnabled="False" Canvas.Left="100" Canvas.Top="118" Content="Mirror V"/>
+    <Button x:Name="startSequenceButton" Width="77" Height="25" IsEnabled="False" Canvas.Left="204" Canvas.Top="171" RenderTransformOrigin="0.473,-0.024" Content="Start"/>
+    <Button x:Name="stopSequenceButton" Width="76" Height="25" IsEnabled="False" Canvas.Left="289" Canvas.Top="171" Content="Stop"/>
+    <TextBlock Text="Skip frames" Width="150" Height="19" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="204" Canvas.Top="258" />
+    <TextBox x:Name="SkipFrameCounttextbox" Width="50" Height="19" Canvas.Left="315" Canvas.Top="257" Text="3"/>
+    <TextBlock Text="Stepsize [mV]" Width="150" Height="19" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="204" Canvas.Top="276" />
+    <TextBox x:Name="steptextbox" Width="50" Height="19" Canvas.Left="315" Canvas.Top="276" Text="75"/>
+    <Button x:Name="repaintbutton" Width="77" Height="25" IsEnabled="False" Canvas.Left="204" Canvas.Top="201" Content="Repaint"/>
+    <Button x:Name="calibbutton" Width="77" Height="25" IsEnabled="False" Canvas.Left="204" Canvas.Top="321" Content="Calibrate"/>
+    <Button x:Name="savebutton" Width="77" Height="25" IsEnabled="False" Canvas.Left="289" Canvas.Top="201" Content="Save"/>
+    <TextBlock Text="Min grayvalue" Width="150" Height="19" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="204" Canvas.Top="295" />
+    <TextBox x:Name ="mingrayvaluetextbox" Width="50" Height="19" Canvas.Left="315" Canvas.Top="295" Text="0"/>
+    <ComboBox x:Name="graymoduscomboBox" Text="(r + g + b)/3" Width="164" Height="24" Canvas.Left="0" Canvas.Top="203" SelectedIndex="1">
+        <s:String>(r * g * b)</s:String>
+        <s:String>(r + g + b)/3</s:String>
+        <s:String>(0,299r + 0.587g + 0.114b)</s:String>
+        <s:String>sqrt(0,299r^2 + 0.587g^2 + 0.114b^2)</s:String>
+        <s:String>(g + b)/2</s:String>
+        <s:String>r</s:String>
+        <s:String>g</s:String>
+        <s:String>b</s:String>
+    </ComboBox>
+    <Button x:Name="loadbutton" Width="77" Height="25" IsEnabled="True" Canvas.Left="288" Canvas.Top="321" Content="Load calib"/>
+    <TextBlock Text="R" Width="161" Height="20" Canvas.Left="7" Canvas.Top="250" />
+    <Slider x:Name="sliderbackground1" TickFrequency="10" Minimum="0" Maximum="255" Width="164" Height="20" Canvas.Left="0" Canvas.Top="270" />
+    <TextBox x:Name="sliderbackgroundtextbox1" Width="82" Height="19" Canvas.Left="82" Canvas.Top="250" Text="0"/>
+    <TextBlock Text="G" Width="161" Height="20" Canvas.Left="7" Canvas.Top="296" />
+    <Slider x:Name="sliderbackground2" TickFrequency="10" Minimum="0" Maximum="255" Width="164" Height="20" Canvas.Left="0" Canvas.Top="316" />
+    <TextBox x:Name="sliderbackgroundtextbox2" Width="82" Height="19" Canvas.Left="82" Canvas.Top="296" Text="0"/>
+    <TextBlock Text="B" Width="161" Height="20" Canvas.Left="7" Canvas.Top="342" />
+    <Slider x:Name="sliderbackground3" TickFrequency="10" Minimum="0" Maximum="255" Width="164" Height="20" Canvas.Left="0" Canvas.Top="362" />
+    <TextBox x:Name="sliderbackgroundtextbox3" Width="82" Height="19" Canvas.Left="82" Canvas.Top="342" Text="0"/>
+    <TextBlock Width="77" VerticalAlignment="Top" Canvas.Top="352" Text="Top left" Canvas.Left="204" Height="19" HorizontalAlignment="Left"/>
+    <TextBox x:Name="topleftboxx" Width="41" Height="19" Canvas.Left="289" Canvas.Top="352" Text="0"/>
+    <TextBlock Width="77" VerticalAlignment="Top" Canvas.Top="371" Text="Buttom right" Canvas.Left="204" Height="19" HorizontalAlignment="Left"/>
+    <TextBox x:Name="buttomrightboxx" Width="41" Height="19" Canvas.Left="289" Canvas.Top="371" Text="0"/>
+    <TextBlock Width="7" VerticalAlignment="Top" Canvas.Top="352" Text="x" Canvas.Left="281" Height="19" HorizontalAlignment="Left"/>
+    <TextBox x:Name="topleftboxy" Width="40" Height="19" Canvas.Left="343" Canvas.Top="352" Text="0" RenderTransformOrigin="-0.327,0.204"/>
+    <TextBox x:Name="buttomrightboxy" Width="40" Height="19" Canvas.Left="343" Canvas.Top="371" Text="0"/>
+    <TextBlock Width="7" VerticalAlignment="Top" Canvas.Top="370" Text="x" Canvas.Left="281" Height="19" HorizontalAlignment="Left"/>
+    <TextBlock Width="11" VerticalAlignment="Top" Canvas.Top="353" Text="y" Canvas.Left="335" Height="19" HorizontalAlignment="Left"/>
+    <TextBlock Width="11" VerticalAlignment="Top" Canvas.Top="370" Text="y" Canvas.Left="335" Height="19" HorizontalAlignment="Left"/>
+    <TextBlock Width="77" VerticalAlignment="Top" Canvas.Top="352" Text="Line thickness" Canvas.Left="392" Height="19" HorizontalAlignment="Left"/>
+    <TextBox x:Name="linethicknessbox" Width="41" Height="19" Canvas.Left="474" Canvas.Top="353" Text="3"/>
+    <TextBlock x:Name="rgbvaluetext" Width="232" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="0" Canvas.Top="138" />
+</Canvas>

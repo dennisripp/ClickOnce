@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\;C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\</ReferencePath>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,44 @@
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\SharpUpdate.dll
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\SharpUpdate.pdb
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\UpdateApp.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.Update.resources
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\TestApp.exe
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\TestApp.pdb
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.CopyComplete
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\bin\Debug\TestApp.exe
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\bin\Debug\TestApp.pdb
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\bin\Debug\SharpUpdate.dll
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\bin\Debug\SharpUpdate.pdb
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\UpdateApp.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\TestApp.Update.resources
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.CopyComplete
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\denni\Desktop\Test updater\Updater\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\bin\Debug\TestApp.exe
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\bin\Debug\TestApp.pdb
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\bin\Debug\SharpUpdate.dll
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\bin\Debug\SharpUpdate.pdb
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\UpdateApp.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\TestApp.Update.resources
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.CopyComplete
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\denni\Desktop\Testupdater\Updater\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\TestApp.exe
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\TestApp.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\UpdateApp.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.Update.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\UpdateApp.csproj.CopyComplete
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\obj\x86\Debug\TestApp.pdb

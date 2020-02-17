@@ -1,0 +1,49 @@
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.Properties.Resources.resources
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateAcceptForm.resources
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateDownloadForm.resources
+C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateInfoForm.resources
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.Properties.Resources.resources
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateAcceptForm.resources
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateDownloadForm.resources
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateInfoForm.resources
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\Test updater\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.Properties.Resources.resources
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateAcceptForm.resources
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateDownloadForm.resources
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateInfoForm.resources
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\Testupdater\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\bin\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\bin\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.Properties.Resources.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.QubedotUpdateAcceptForm.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.QubedotUpdateDownloadForm.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.QubedotUpdateInfoForm.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\SharpUpdate\obj\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\bin\Debug\QubedotUpdate.pdb
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.Properties.Resources.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateAcceptForm.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateDownloadForm.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.QubedotUpdateInfoForm.resources
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.csproj.GenerateResource.cache
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.dll
+C:\Users\denni\Desktop\GUI\1.0.0.2 Qubedot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\QubedotUpdate\obj\Debug\QubedotUpdate.pdb

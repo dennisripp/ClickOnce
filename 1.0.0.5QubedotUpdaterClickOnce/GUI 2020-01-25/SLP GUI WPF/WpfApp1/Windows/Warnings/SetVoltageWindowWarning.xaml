@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.SetSaveModus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Windows"
+        mc:Ignorable="d"
+        Title="WARNING" Height="196.476" Width="258.219">
+    <Grid>
+        <Grid Name="MyGrid" HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="794" Margin="0,0,-0.4,0">
+            <Label Content="WARNING" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="24" Width="229"/>
+            <Label Content="Voltage above critical value" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Height="24" Width="229" RenderTransformOrigin="0.496,1.812"/>
+            <Label Content="Continuing could damage the LEDs" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" Height="26" Width="229" RenderTransformOrigin="0.496,1.812"/>
+            <Button Name="ContinueButton" Content="Continue" HorizontalAlignment="Left" Margin="20,120,0,0" VerticalAlignment="Top" Width="74" IsEnabled="false" Click="Continue_Click"/>
+            <Button Content="Cancle" HorizontalAlignment="Left" Margin="140,120,0,0" VerticalAlignment="Top" Width="74" IsEnabled="true" Click="Cancle_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>
