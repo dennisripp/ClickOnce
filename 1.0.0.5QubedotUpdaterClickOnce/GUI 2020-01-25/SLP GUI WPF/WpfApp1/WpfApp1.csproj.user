@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\denni\Desktop\ClickonceTest\|C:\Users\student\Desktop\WebSite\|publish\</PublishUrlHistory>
-    <InstallUrlHistory>\\localhost\Users\denni\Desktop\ClickonceTest\|\\localhost\Users\denni\Desktop\WebSiteTest\|\\localhost\Users\denni\Desktop\websitetest\|\\localhost\Users\denni\DesktopwebSiteTest\|\\localhost\Users\denni\Desktopwe\</InstallUrlHistory>
+    <PublishUrlHistory>C:\Users\denni\Desktop\ClickOncepublish\|https://github.com/dennisripp/ClickOncePublish.git/|https://github.com/dennisripp/ClickOnce.git/|C:\Users\denni\Desktop\ClickonceTest\|C:\Users\student\Desktop\WebSite\</PublishUrlHistory>
+    <InstallUrlHistory>https://github.com/dennisripp/ClickOncePublish.git/|https://github.com/dennisripp/ClickOnce.git/|\\localhost\Users\denni\Desktop\ClickonceTest\|\\localhost\Users\denni\Desktop\WebSiteTest\|\\localhost\Users\denni\Desktop\websitetest\</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory>\\localhost\Users\denni\Desktop\ClickonceTest\|http://localhost/WpfApp1/</UpdateUrlHistory>
     <BootstrapperUrlHistory />

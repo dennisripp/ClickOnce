@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\denni\Desktop\GUI\1.0.0.5 Qubedot updater automaticupdater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\obj\Debug\
+C:\Users\denni\Desktop\ClickOnceMicroLED\1.0.0.5QubedotUpdaterClickOnce\GUI 2020-01-25\SLP GUI WPF\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-C:\Users\denni\Desktop\GUI\1.0.0.5 Qubedot updater automaticupdater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\App.xaml
+C:\Users\denni\Desktop\ClickOnceMicroLED\1.0.0.5QubedotUpdaterClickOnce\GUI 2020-01-25\SLP GUI WPF\WpfApp1\App.xaml
 9-1892976769
 9-995357086
 61-1059294044
-25-1914570605
+252141218548
 Windows\About\AboutWindow.xaml;Resources\measurefield.xaml;Windows\Connect USB\ConnectDevice.xaml;MainWindow.xaml;Windows\Warnings\SetVoltageWindowWarning.xaml;Windows\CreateAnimation\CreateAnimationWindow.xaml;Windows\SetValues\SetCurrentWindow.xaml;Windows\SetValues\SetVoltageWindow.xaml;Windows\SetValues\SetSaveModus.xaml;
 
-True
+False
 

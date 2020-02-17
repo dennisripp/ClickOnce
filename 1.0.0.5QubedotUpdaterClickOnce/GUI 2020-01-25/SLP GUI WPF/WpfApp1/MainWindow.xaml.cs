@@ -20,7 +20,7 @@ using System.Deployment.Application;
 using System.ComponentModel;
 
 
-// Test1
+// Test2
 
 
 
@@ -174,25 +174,6 @@ namespace WpfApp1
                 Menustop.IsEnabled = false;
             }
         }
-
-       
-
-        /*
-          string fileName = "TestApp.exe";
-          string path1 = @"mydir";
-          string fullPath;
-          fullPath = Path.GetFullPath(path1);
-          Console.WriteLine("GetFullPath('{0}') returns '{1}'",
-              path1, fullPath);
-
-          string file = fullPath + @"\WpfApp1\Updater\TestApp\bin\Debug\TestApp.exe"; 
-          // string file = @"C:\Users\denni\Desktop\Quebdot updater\GUI 2020-01-25\SLP GUI WPF\WpfApp1\Updater\TestApp\bin\Debug\TestApp.exe";
-          Process.Start(file);
-
-          */
-
-
-
 
 
 
